@@ -1,4 +1,4 @@
-# ⌘ File Manupulator Programu
+# ⌘ File Manupulator Program
 コマンドラインインターフェースを使って、コマンドと引数を渡してファイル操作を行うプログラム。
 
 ## 💻 環境
